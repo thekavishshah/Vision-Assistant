@@ -56,9 +56,3 @@ Vision-Assistant serves as a *digital eye and smart assistant* that helps users 
 ---
 
 
-
-
-"Where is the soap?"
-
-🤝 Contributing
-Contributions, feedback, and new feature ideas are welcome! Feel free to fork the repo, open issues, or submit pull requests.
